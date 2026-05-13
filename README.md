@@ -1,6 +1,6 @@
 # Lucas Alves 👋
 
-Desenvolvedor Backend | Estudante SENAC 🚀
+Desenvolvedor FullStack | Estudante SENAC 🚀
 
 Sou estudante de Técnico em Desenvolvimento de Sistemas no SENAC e apaixonado por tecnologia, programação e desenvolvimento de software.
 
